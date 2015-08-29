@@ -469,30 +469,27 @@ init : function() {
     rules = [ "",
     "*** Battle Castle Rules ***",
     "",
-    "1. Battle Castle is an international server:",
-    "- Respect other peoples' cultures and do not demand they speak English. Everyone is welcome at Battle Castle, as long as they follow the rules.",
-    "2. No advertising, excessive messages or caps, inappropriate/obscene links, or text art:",
-    "- Do not post links unless they are to notable sites (Youtube, Smogon, Serebii, etc). We are not interested in your start-up community. Do not monopolize the chat with large amounts of messages, or short ones in rapid succession. Do not advertise non-official channels without prior approval. Posting ASCII art is punishable with a ban, as is posting anything with any type of pornography. Posting social media (Twitter/Facebook/kik) accounts is also punishable.",
-    "3. Use Find Battle, or join tournaments instead of asking in the main chat:",
+    "1. Use Find Battle, or join tournaments instead of asking in the main chat:",
     "- No one wants to hear you whining for a battle.",
-    "4. Do not ask for authority:",
+    "2. Do not ask for authority:",
     "- You're not gonna get it.",
-    "5. Don't fuck with other players. Do not complain.:",
+    "3. Don't fuck with other players. Do not complain.:",
     "- Inciting responses with inflammatory comments, using verbal abuse against other players, or spamming them via chat/PM/challenges will not be tolerated. Harassing other players by constantly aggravating them or revealing personal information will be severely punished. No one wants to see you whine.",
-    "6. Do not misuse the server nor its guidelines:",
+    "4. Do not misuse the server nor its guidelines:",
     "- Stealing accounts or channels is prohibited. Any attempt to undermine the legitimacy of ladder rankings and of tournaments (server or forum) counts as misuse. DDoS and other \"cyber attacks\" will not be tolerated. Evading and trying to find loop-holes for malicious intent both violate the guidelines. All ban appeals should be made directly in the Disciplinary Committee on the forums. Use of the server as a dating service or other various web services that it is not may also count as abuse."
-    "7. Don't fuck with auth about your personal problems, see a psychiatrist."
+    "5. Don't fuck with auth about your personal problems, see a psychiatrist."
     "- We don't want to hear about you or your shit."
-    "8. SIEG HEIL"
-    "9. FUCK NEOS"
+    "6. SIEG HEIL"
+    "7. FUCK NEOS"
     "- Wait, no."
-    "10. These rules are bad"
-    "11. Ignore 'Rule' 10."
+    "8. These rules are bad"
+    "9. Ignore 'Rule' 8."
     "- Even though it's a statement and not a rule."
-    "12. This is a bad server."
+    "10. This is a bad server."
     "- We know :("
     "- These aren't rules"
     "- Who cares"
+    "34. ( ͡° ͜ʖ ͡°)"
     ];
 
     if (typeof script.authStats == 'undefined')
