@@ -469,18 +469,7 @@ init : function() {
     rules = [ "",
     "*** Battle Castle Rules ***",
     "",
-    "1. SIEG HEIL"
-    "2. FUKA NEOS"
-    "- Wait, no."
-    "- Wait... yes.."
-    "3. These rules are bad"
-    "4. Ignore 'Rule' 7."
-    "- Even though it's a statement and not a rule."
-    "5. This is a bad server."
-    "- We know :("
-    "- These aren't rules"
-    "- Who cares"
-    "34. ( ͡° ͜ʖ ͡°)"
+    "Rule 34. ( ͡° ͜ʖ ͡°)"
     ];
 
     if (typeof script.authStats == 'undefined')
