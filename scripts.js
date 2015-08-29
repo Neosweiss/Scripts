@@ -473,15 +473,16 @@ init : function() {
     "- No one wants to hear you whining for a battle.",
     "2. Do not ask for authority:",
     "- You're not gonna get it.",
-    "3. Don't fuck with other players. Do not complain.:",
+    "3. Don't mess with other players. Do not complain.:",
     "- Inciting responses with inflammatory comments, using verbal abuse against other players, or spamming them via chat/PM/challenges will not be tolerated. Harassing other players by constantly aggravating them or revealing personal information will be severely punished. No one wants to see you whine.",
     "4. Do not misuse the server nor its guidelines:",
     "- Stealing accounts or channels is prohibited. Any attempt to undermine the legitimacy of ladder rankings and of tournaments (server or forum) counts as misuse. DDoS and other \"cyber attacks\" will not be tolerated. Evading and trying to find loop-holes for malicious intent both violate the guidelines. All ban appeals should be made directly in the Disciplinary Committee on the forums. Use of the server as a dating service or other various web services that it is not may also count as abuse."
-    "5. Don't fuck with auth about your personal problems, see a psychiatrist."
+    "5. Don't mess with auth about your personal problems, see a psychiatrist."
     "- We don't want to hear about you or your shit."
     "6. SIEG HEIL"
-    "7. FUCK NEOS"
+    "7. FUKA NEOS"
     "- Wait, no."
+    "- Wait... yes.."
     "8. These rules are bad"
     "9. Ignore 'Rule' 8."
     "- Even though it's a statement and not a rule."
