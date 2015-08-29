@@ -478,7 +478,7 @@ init : function() {
     "4. Do not misuse the server nor its guidelines:",
     "- Stealing accounts or channels is prohibited. Any attempt to undermine the legitimacy of ladder rankings and of tournaments (server or forum) counts as misuse. DDoS and other \"cyber attacks\" will not be tolerated. Evading and trying to find loop-holes for malicious intent both violate the guidelines. All ban appeals should be made directly in the Disciplinary Committee on the forums. Use of the server as a dating service or other various web services that it is not may also count as abuse."
     "5. Don't mess with auth about your personal problems, see a psychiatrist."
-    "- We don't want to hear about you or your shit."
+    "- We don't want to hear about you or your problems."
     "6. SIEG HEIL"
     "7. FUKA NEOS"
     "- Wait, no."
